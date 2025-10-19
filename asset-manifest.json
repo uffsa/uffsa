@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d33324d3.css",
-    "main.js": "/static/js/main.938e514b.js",
+    "main.css": "/static/css/main.620fda47.css",
+    "main.js": "/static/js/main.1930a228.js",
     "static/media/max.JPEG": "/static/media/max.d0b4a56c37c65ea500ab.JPEG",
     "static/media/iya.JPG": "/static/media/iya.5cfae14e3d0ef727e67c.JPG",
     "static/media/justin.jpeg": "/static/media/justin.b954376f72f4f64de829.jpeg",
@@ -41,13 +41,22 @@
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.c28a96c369871653b853.ttf",
     "static/media/brian.jpg": "/static/media/brian.c397cee9bf240ff91a27.jpg",
     "static/media/aasa24.jpg": "/static/media/aasa24.99af28b232c609da4fbb.jpg",
+    "static/media/Spring25_Hoodie_Back.jpg": "/static/media/Spring25_Hoodie_Back.5c3b172831d39c7e8359.jpg",
     "static/media/barrio2324.jpg": "/static/media/barrio2324.624b3c5e78e7a827cc29.jpg",
+    "static/media/DTJ_Crewneck_Back.jpg": "/static/media/DTJ_Crewneck_Back.fc98616c956be66b6f35.jpg",
+    "static/media/Spring25_Hoodie_Front.jpg": "/static/media/Spring25_Hoodie_Front.1ab8a374592e0242f04f.jpg",
+    "static/media/Spring25_Shirt_Front.jpg": "/static/media/Spring25_Shirt_Front.c48ad85ea3d5f97a2943.jpg",
+    "static/media/DTJ_Shirt_Back.jpg": "/static/media/DTJ_Shirt_Back.a270dddceab98f6d3838.jpg",
+    "static/media/DTJ_Crewneck_Front.jpg": "/static/media/DTJ_Crewneck_Front.1a5176b97fe1755403de.jpg",
+    "static/media/DTJ_Shirt_Front.jpg": "/static/media/DTJ_Shirt_Front.fe320a8be56aa40b34bd.jpg",
     "static/media/gahyun.jpeg": "/static/media/gahyun.212c6c3440fe7b8d0e80.jpeg",
     "static/media/Ghiya Strokes Reg.ttf": "/static/media/Ghiya Strokes Reg.95df9f6e51a7f9df623f.ttf",
     "static/media/dtj.jpg": "/static/media/dtj.78a687a21fbd7a8f9041.jpg",
     "static/media/sports.png": "/static/media/sports.0395c991529743606300.png",
     "static/media/philanthropy.png": "/static/media/philanthropy.2e66dda67a84953059d3.png",
+    "static/media/Spring25_Shirt_Back.jpg": "/static/media/Spring25_Shirt_Back.f819be704fb149d1ddbf.jpg",
     "static/media/culture.png": "/static/media/culture.04e76f3bbf4d927cc317.png",
+    "static/media/DTJ_Sweatpants.jpg": "/static/media/DTJ_Sweatpants.7bef84ca306385e25169.jpg",
     "static/media/fb_logo.png": "/static/media/fb_logo.790642551cd99bb66a7e.png",
     "static/media/dance.png": "/static/media/dance.bd0e0e06e1b11724266f.png",
     "static/media/class connector qr code.png": "/static/media/class connector qr code.b1884daa04915bee0099.png",
@@ -55,11 +64,11 @@
     "static/media/star.png": "/static/media/star.e019e048777872070a12.png",
     "static/media/logo.png": "/static/media/logo.2d474d98786a767124ce.png",
     "index.html": "/index.html",
-    "main.d33324d3.css.map": "/static/css/main.d33324d3.css.map",
-    "main.938e514b.js.map": "/static/js/main.938e514b.js.map"
+    "main.620fda47.css.map": "/static/css/main.620fda47.css.map",
+    "main.1930a228.js.map": "/static/js/main.1930a228.js.map"
   },
   "entrypoints": [
-    "static/css/main.d33324d3.css",
-    "static/js/main.938e514b.js"
+    "static/css/main.620fda47.css",
+    "static/js/main.1930a228.js"
   ]
 }
