@@ -1,0 +1,28 @@
+.order-page-main {
+    background-color: #f5f2f0;
+    padding-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-name-and-image {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 500px;
+    margin-left: 50px;
+    align-items: center;
+}
+
+.product-image {
+    width: 400px;
+    height: 400px;
+}
+
+.sizing-and-order {
+    margin-top: 50px;
+}
+
+.gap {
+    width: 200px;
+}
