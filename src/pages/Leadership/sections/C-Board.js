@@ -48,6 +48,13 @@ const CBoard = () => {
             <h2>Philanthropy Chair</h2>
           </div>
         </a>
+        <a href='https://www.instagram.com/no____ahh/' target="_blank" rel="noopener noreferrer" className='cboard-card philanthropy-card'>
+          <img src={Default} alt='Noah Magpusao' />
+          <div className='cboard-card__text'>
+            <h1>Noah Magpusao</h1>
+            <h2>Philanthropy Chair</h2>
+          </div>
+        </a>
         <a href='https://www.instagram.com/luke.valian/' target="_blank" rel="noopener noreferrer" className='cboard-card dance-card'>
           <img src={Luke} alt='Luke Valian Malobay' />
           <div className='cboard-card__text'>
@@ -62,6 +69,13 @@ const CBoard = () => {
             <h2>Dance Chair</h2>
           </div>
         </a>
+        <a href='https://www.instagram.com/yazminaa/' target="_blank" rel="noopener noreferrer" className='cboard-card dance-card'>
+          <img src={Default} alt='Yazmina Fadloullah' />
+          <div className='cboard-card__text'>
+            <h1>Yazmina Fadloullah</h1>
+            <h2>Dance Chair</h2>
+          </div>
+        </a>
         <a href='https://www.instagram.com/kusa.zz/' target="_blank" rel="noopener noreferrer" className='cboard-card senioradvisor-card'>
           <img src={Justin} alt='Justin Fernandez' />
           <div className='cboard-card__text'>
@@ -73,6 +87,20 @@ const CBoard = () => {
           <img src={Iya} alt='Iya Garcera' />
           <div className='cboard-card__text'>
             <h1>Iya Garcera</h1>
+            <h2>Culture Chair</h2>
+          </div>
+        </a>
+        <a href='https://www.instagram.com/rebekahelize/' target="_blank" rel="noopener noreferrer" className='cboard-card culture-card'>
+          <img src={Default} alt='Rebekah Barrera' />
+          <div className='cboard-card__text'>
+            <h1>Rebekah Barrera</h1>
+            <h2>Culture Chair</h2>
+          </div>
+        </a>
+        <a href='https://www.instagram.com/andrew.lcss/' target="_blank" rel="noopener noreferrer" className='cboard-card culture-card'>
+          <img src={Default} alt='Andrew Lucas' />
+          <div className='cboard-card__text'>
+            <h1>Andrew Lucas</h1>
             <h2>Culture Chair</h2>
           </div>
         </a>
@@ -136,6 +164,13 @@ const CBoard = () => {
           <img src={Jerry} alt='Jerry Phan' />
           <div className='cboard-card__text'>
             <h1>Jerry Phan</h1>
+            <h2>Multimedia Chair</h2>
+          </div>
+        </a>
+        <a href='https://www.instagram.com/pjgray01/' target="_blank" rel="noopener noreferrer" className='cboard-card multimedia-card'>
+          <img src={Default} alt='PJ Gray' />
+          <div className='cboard-card__text'>
+            <h1>PJ Gray</h1>
             <h2>Multimedia Chair</h2>
           </div>
         </a>
