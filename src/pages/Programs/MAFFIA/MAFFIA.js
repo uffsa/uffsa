@@ -2,6 +2,7 @@ import React from 'react';
 import './MAFFIA.css';
 
 import MaffiaTitle from '../../../components/titles/MAFFIA Title/MaffiaTitle';
+import InstagramPost from "../../../components/InstaPosts/InstagramPost";
 
 const MAFFIA = () => {  
     return (<>
@@ -11,19 +12,33 @@ const MAFFIA = () => {
           <section className="maffia-description">
             <div className='maffia-description__container'>
               <p>
-                MAFFIA (Membership And FSA First-year Involvement Alliance) is the perfect way for new members to get involved and find their niche within FSA. Within it they will gain firsthand leadership experience and develop valuable skills all while connecting with new and old members of the PAMILYA!
+                <b>MAFFIA</b> <i>(Membership And FSA First-year Involvement Alliance)</i> is the perfect way for new members 
+                to get involved and find their niche within FSA! Within it they will gain firsthand leadership experience 
+                and develop valuable skills all while connecting with new and old members of the <i>pamilya</i>!
               </p>
 
               <p>
-                This program gives the opportunity to network and learn how FSA runs behind the scenes with the help of E-Board members and Chairs. Although MAFFIA is geared towards new members and Freshmen, ALL are welcome and encouraged to join! 
+                This program gives the opportunity to network and learn how FSA runs behind the scenes with the help 
+                of E-Board members and Chairs. Although MAFFIA is geared towards new members and freshmen,  
+                <i> all</i> are welcome and encouraged to join! 
               </p>
 
               <p>
-                MAFFIA is divided into 4 sub-programs: Culture, Mass Communications, Multimedia, and Philanthropy. Over the course of the Fall semester, members will be distributed amongst these sub-programs and will rotate every GBM/show so each MAFFIA member has the opportunity to experience each program. 
+                MAFFIA is divided into 4 sub-programs, each of which have different tasks:
+                <ul>
+                  <li><b>Culture</b>: GBM info-segment, BARKADA vocabulary section, language workshops</li>
+                  <li><b>Mass Communications</b>: Emcee, BARKADA pamphlets</li>
+                  <li><b>Multimedia</b>: Skit actor, script writer</li>
+                  <li><b>Philanthropy</b>: KLIK Mobile Education (KLIKme), advocacy segment</li>
+                </ul>
+                Over the course of the Fall semester, members will be distributed amongst these sub-programs 
+                and will rotate every GBM / show so each MAFFIA member has the opportunity to experience most of the programs. 
+                By the Spring semester, members get to choose which rotation they would like to "<i>lockdown</i>" on and work
+                closer with board in meetings and responsibilities. 
               </p>
 
               <p>
-                The choice is yours! Enhance your experience in FSA and join our team today.
+                The choice is yours! Enhance your experience in FSA and join our team today :}
               </p>
             </div>
 
@@ -32,8 +47,8 @@ const MAFFIA = () => {
                 <iframe className='vid'
                   width={1280}
                   height={720}
-                  src="https://www.youtube.com/embed/Pmuu3dqGMRo?si=7pOBHDWk94ZS_PQB"
-                  title="MAFFIA 2023: The Powerpuff Pinoys"
+                  src="https://www.youtube.com/embed/JWAEah9sIZs?si=8VyaZZqF83EJIk8m"
+                  title="Dress to Impress | UFFSA MAFFIA 2024"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   allowFullScreen={true}
                 />
@@ -41,9 +56,9 @@ const MAFFIA = () => {
             </div>
 
             <div className='apply-button__container'>
-              <a href='https://docs.google.com/forms/d/e/1FAIpQLSevYv9vuYBKO5oha0Ov7kOnObTdrq8eKVuP7uVmlnZke0IanQ/viewform' target="_blank" rel="noopener noreferrer">
+              <a>
                   <button className="apply-button title">
-                    APPLY NOW!
+                    Apps Closed — Open in Spring !
                   </button>
               </a>
             </div>
