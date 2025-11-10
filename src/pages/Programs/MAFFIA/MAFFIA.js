@@ -55,6 +55,10 @@ const MAFFIA = () => {
               </div>
             </div>
 
+            <figure className="event-figure">
+                  <InstagramPost url="https://www.instagram.com/p/DOewZTVjd9C/?utm_source=ig_web_copy_link&igsh=b3hieDF1N2EyeGJ6" />
+            </figure>
+
             <div className='apply-button__container'>
               <a>
                   <button className="apply-button title">
