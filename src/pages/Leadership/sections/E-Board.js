@@ -2,16 +2,17 @@ import React from 'react';
 import './E-Board.css';
 
 import Default from './default.png';
-import Brian from '../photos/brian.jpg';
-import Chadrick from '../photos/chadrick.JPG';
-import Gianna from '../photos/gianna.png';
-import Sam from '../photos/sam.jpeg';
-import Mia from '../photos/mia.jpeg';
-import Katheri from '../photos/katheri.png';
-import Max from '../photos/max.JPEG';
-import Dom from '../photos/dom.png';
-import Matt from '../photos/matt.jpeg';
-import Bekzod from '../photos/bekzod.jpeg';
+import Brian from '../photos/Brian.jpg';
+import Chadrick from '../photos/Chadrick.jpg';
+import Gianna from '../photos/Gianna.jpg';
+import Sam from '../photos/Sam.jpg';
+import Mia from '../photos/Mia.jpg';
+import Katheri from '../photos/Katheri.jpg';
+import Max from '../photos/Max.jpg';
+import Dom from '../photos/Dom.jpg';
+import Matt from '../photos/Matt.jpg';
+import Bekzod from '../photos/Bekzod.jpg';
+
 
 const EBoard = () => {
   return (

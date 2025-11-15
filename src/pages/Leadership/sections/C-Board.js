@@ -1,25 +1,27 @@
 import React from 'react';
 import './C-Board.css';
 
-import Lynette from '../photos/lynette.jpg';
-import Abby from '../photos/abby.jpg';
-import Ava from '../photos/ava.jpeg';
-import Azille from '../photos/azille.jpeg';
-import Gahyun from '../photos/gahyun.jpeg';
-import Jaden from '../photos/jaden.png';
-import Jane from '../photos/jane.jpeg';
-import Jasmine from '../photos/jasmine.jpeg';
-import Jerry from '../photos/jerry.png';
-import Kate from '../photos/kate.jpeg';
-import Laura from '../photos/laura.jpeg';
-import Luke from '../photos/luke.jpg';
-import Mari from '../photos/mari.png';
-import Justin from '../photos/justin.jpeg';
-import Iya from '../photos/iya.JPG';
-import Mason from '../photos/mason.png';
-import Alex from '../photos/alex.png';
-import Elijah from '../photos/elijah.png';
-import Liam from '../photos/liam.png';
+import Lynette from '../photos/Lynette.jpg';
+import Abby from '../photos/Abby.jpg';
+import Ava from '../photos/Ava.jpg';
+import Azille from '../photos/Azille.jpg';
+import Gahyun from '../photos/Gahyun.jpg';
+import Jaden from '../photos/Jaden.jpg';
+import Jane from '../photos/Jane.jpg';
+import Jasmine from '../photos/Jasmine.jpg';
+import Jerry from '../photos/Jerry.jpg';
+import Kate from '../photos/Kate.jpg';
+import Laura from '../photos/Laura.jpg';
+import Luke from '../photos/Luke.jpg';
+import Mari from '../photos/Mari.jpg';
+import Justin from '../photos/Justin.jpg';
+import Iya from '../photos/Iya.jpg';
+import Mason from '../photos/Mason.jpg';
+import Alex from '../photos/Alex.jpg';
+import Elijah from '../photos/Elijah.jpg';
+import Liam from '../photos/Liam.jpg';
+
+
 import Default from './default.png';
 
 const CBoard = () => {
