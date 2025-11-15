@@ -1,27 +1,30 @@
 import React from 'react';
 import './C-Board.css';
 
-import Lynette from '../photos/Lynette.jpg';
-import Abby from '../photos/Abby.jpg';
-import Ava from '../photos/Ava.jpg';
-import Azille from '../photos/Azille.jpg';
-import Gahyun from '../photos/Gahyun.jpg';
-import Jaden from '../photos/Jaden.jpg';
-import Jane from '../photos/Jane.jpg';
-import Jasmine from '../photos/Jasmine.jpg';
-import Jerry from '../photos/Jerry.jpg';
-import Kate from '../photos/Kate.jpg';
-import Laura from '../photos/Laura.jpg';
-import Luke from '../photos/Luke.jpg';
-import Mari from '../photos/Mari.jpg';
-import Justin from '../photos/Justin.jpg';
-import Iya from '../photos/Iya.jpg';
-import Mason from '../photos/Mason.jpg';
-import Alex from '../photos/Alex.jpg';
-import Elijah from '../photos/Elijah.jpg';
-import Liam from '../photos/Liam.jpg';
-
-
+import Abby from '../photos/abby.jpg';
+import Alex from '../photos/alex.jpg';
+import Ava from '../photos/ava.jpg';
+import Azille from '../photos/azille.jpg';
+import Drew from '../photos/drew.jpg';
+import Elijah from '../photos/elijah.jpg';
+import Gahyun from '../photos/gahyun.jpg';
+import Iya from '../photos/iya.JPG';
+import Jaden from '../photos/jaden.jpg';
+import Jane from '../photos/elle.jpg';
+import Jasmine from '../photos/jasmine.jpg';
+import Jerry from '../photos/jerry.jpg';
+import Justin from '../photos/justin.jpg';
+import Kate from '../photos/kate.jpg';
+import Laura from '../photos/laura.jpg';
+import Liam from '../photos/liam.jpg';
+import Luke from '../photos/luke.jpg';
+import Lynette from '../photos/lynette.jpg';
+import Mari from '../photos/mari.jpg';
+import Mason from '../photos/mason.jpg';
+import Noah from '../photos/noah.jpg';
+import PJ from '../photos/pj.jpg';
+import Rebekah from '../photos/rebekah.jpg';
+import Yazmina from '../photos/yazmina.jpg';
 import Default from './default.png';
 
 const CBoard = () => {
@@ -51,7 +54,7 @@ const CBoard = () => {
           </div>
         </a>
         <a href='https://www.instagram.com/no____ahh/' target="_blank" rel="noopener noreferrer" className='cboard-card philanthropy-card'>
-          <img src={Default} alt='Noah Magpusao' />
+          <img src={Noah} alt='Noah Magpusao' />
           <div className='cboard-card__text'>
             <h1>Noah Magpusao</h1>
             <h2>Philanthropy Chair</h2>
@@ -72,7 +75,7 @@ const CBoard = () => {
           </div>
         </a>
         <a href='https://www.instagram.com/yazminaa/' target="_blank" rel="noopener noreferrer" className='cboard-card dance-card'>
-          <img src={Default} alt='Yazmina Fadloullah' />
+          <img src={Yazmina} alt='Yazmina Fadloullah' />
           <div className='cboard-card__text'>
             <h1>Yazmina Fadloullah</h1>
             <h2>Dance Chair</h2>
@@ -93,14 +96,14 @@ const CBoard = () => {
           </div>
         </a>
         <a href='https://www.instagram.com/rebekahelize/' target="_blank" rel="noopener noreferrer" className='cboard-card culture-card'>
-          <img src={Default} alt='Rebekah Barrera' />
+          <img src={Rebekah} alt='Rebekah Barrera' />
           <div className='cboard-card__text'>
             <h1>Rebekah Barrera</h1>
             <h2>Culture Chair</h2>
           </div>
         </a>
         <a href='https://www.instagram.com/andrew.lcss/' target="_blank" rel="noopener noreferrer" className='cboard-card culture-card'>
-          <img src={Default} alt='Andrew Lucas' />
+          <img src={Drew} alt='Andrew Lucas' />
           <div className='cboard-card__text'>
             <h1>Andrew Lucas</h1>
             <h2>Culture Chair</h2>
@@ -170,7 +173,7 @@ const CBoard = () => {
           </div>
         </a>
         <a href='https://www.instagram.com/pjgray01/' target="_blank" rel="noopener noreferrer" className='cboard-card multimedia-card'>
-          <img src={Default} alt='PJ Gray' />
+          <img src={PJ} alt='PJ Gray' />
           <div className='cboard-card__text'>
             <h1>PJ Gray</h1>
             <h2>Multimedia Chair</h2>

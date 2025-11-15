@@ -34,6 +34,7 @@
   line-height: 1.6;
   margin: 0 0 16px;
   color: #333;
+  margin-top: 20px;
 }
 
 .event-badges{
@@ -100,7 +101,6 @@
   margin-top: 6px;
   text-align: center;
 }
-
 
 .dance-tabs {
     padding: 0 2rem;

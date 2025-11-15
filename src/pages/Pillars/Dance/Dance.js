@@ -19,9 +19,9 @@ import dtj from '../../../pages/Pillars/Dance/dtj.jpg';
 import philfest2024 from '../../../pages/Pillars/Dance/2024_philfest.jpg';
 import InstagramPost from "../../../components/InstaPosts/InstagramPost";
 
-// import AASA from './aasa.jpeg';
+//import AASA from './AASA-1.JPG';
 // import DTJ from './dtj.jpeg';
-// import PhilFest from './philfest.jpeg';
+import PhilFest from './philfest_2024.JPG';
 
 
 const Dance = () => {
@@ -87,6 +87,11 @@ const Dance = () => {
   <section className="event-section">
     <h2 className="event-title">Def Talent Jam</h2>
 
+    <figure className="event-figure">
+      <InstagramPost url="https://www.instagram.com/p/DC40hG1IaUE/" />
+      <figcaption className="event-caption">Def Talent Jam — Southeast Filipino Dance Showcase</figcaption>
+    </figure>
+
     <p className="event-blurb">
       Hosted by UFFSA, along with the University of Florida Filipino Student Alumni Association (UFFSAA),
       <strong> Def Talent Jam (DTJ)</strong> is one of the Southeast’s most anticipated events. This talent competition
@@ -115,15 +120,16 @@ const Dance = () => {
       </ul>
     </div>
 
-    <figure className="event-figure">
-      <InstagramPost url="https://www.instagram.com/p/DC40hG1IaUE/" />
-      <figcaption className="event-caption">Def Talent Jam — Southeast Filipino Dance Showcase</figcaption>
-    </figure>
+    
   </section>
 </TabPanel>
 <TabPanel value={signatureEventsValue} index={0}>
   <section className="event-section">
     <h2 className="event-title">AASA</h2>
+
+    <figure className="event-figure">
+      <InstagramPost url="https://www.instagram.com/p/DNLzzlhO_Sg/?img_index=1" />
+    </figure>
 
     <p className="event-blurb">
       AASA, or the <strong>Asian American Student Assembly</strong>, is an annual event hosted by the Asian American Student Union (AASU). 
@@ -132,15 +138,13 @@ const Dance = () => {
       Additionally, we aim to advertise our organization through our intro video, which features segments from each of our pillars: culture, philanthropy, sports, and dance. </p>
       <p>Participating in AASA is limited to second-years and above, and more information can be found on <strong>@ufaasa</strong> and <strong>@uffsawolfpack</strong> on Instagram.</p>
     </p>
-
-    <figure className="event-figure">
-      <InstagramPost url="https://www.instagram.com/p/DNLzzlhO_Sg/?img_index=1" />
-    </figure>
   </section>
 </TabPanel>
 <TabPanel value={signatureEventsValue} index={2}>
   <section className="event-section">
     <h2 className="event-title">Philfest</h2>
+
+    <img src = {PhilFest} className="dance-images" style={{width: '100%', marginTop: '20px'}}></img>
 
     <p className="event-blurb">
       Philfest, also known as Philfest Revolution, is a dance competition that UFFSA Wolfpack participates in during the spring semester. 

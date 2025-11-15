@@ -19,8 +19,8 @@ import fbLogo from '../../../pages/Pillars/Culture/fb_logo.png';
 import cultureLogo from '../../../assets/logos/culture.png';
 import FacebookBlogImage from './UFFSA CULTURE.jpg';
 import Barrio2324 from './barrio2324.jpg';
-// import FAHM from './FAHM.jpeg';
-// import barrio from './barrio.jpeg';
+import FAHM from './sakuting.JPG';
+import barrio from './Barrio.JPG';
 
 
 const Culture = () => {  
@@ -65,6 +65,8 @@ const Culture = () => {
             <TabPanel value={signatureEventsValue} index={0}>
                 <h2>Filipino American History Month</h2>
 
+                <img src = {FAHM} alt="traditional Filipino dance, sakuting" style={{width: '100%'}}></img>
+
                 <p> Filipino-American History Month (FAHM) is a month-long celebration of 
                     Filipino culture from September to October. The opening ceremony kicks 
                     off the month with a day filled with coming together as a community, 
@@ -95,17 +97,18 @@ const Culture = () => {
             
             <TabPanel value={signatureEventsValue} index={1}>
                 <h2>Barrio Fiesta</h2>
+                
+                <img 
+                    src={barrio}
+                    alt="BARRIO FIESTA" 
+                    style={{ width: '100%'}} 
+                />
                 <p> Barrio Fiesta is a day-long event during the spring semester in celebration of 
                     members of the Filipino community! There, participants can engage in a 
                     cultural festival with stage performances, games with audience participation, 
                     and intermission for food and merch stalls. Unique to this gathering, 
                     there is a fashion show, during which models display a multitude of traditional clothing.
                 </p>
-                <img 
-                    src={Barrio2324}
-                    alt="BARRIO FIESTA" 
-                    style={{ width: '100%', marginTop: '20px' }} 
-                />
             </TabPanel>
 
         </PillarSignatureEvents>
@@ -133,7 +136,7 @@ const Culture = () => {
                 <img 
                     src={FacebookBlogImage}
                     alt="UFFSA CULTURE" 
-                    style={{ width: '100%', marginTop: '20px' }} 
+                    style={{ width: '100%', marginTop: '20px'}} 
                 />
                 <HashLink to="https://www.facebook.com/groups/UFFSA/" className="button fb-button" style={{ backgroundColor: 'var(--blue)' }} target="_blank" rel="noopener noreferrer">
                     <img className="fb-logo" src={fbLogo} alt="fb logo" />

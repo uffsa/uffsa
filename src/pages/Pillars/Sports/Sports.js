@@ -15,8 +15,9 @@ import '../Pillars.css';
 import './Sports.css';
 
 import sportsLogo from '../../../assets/logos/sports.png';
-// import adobowl from './adobowl.jpeg';
-// import ssg from './ssg.jpg';
+import Flag_football from './photos/CO-Rec Flag football.jpg';
+import GBM1 from './photos/GBM 1 Menchies After-Social.jpg';
+import GO_Fest from './photos/GO_Fest Dodgeball FSA.png';
 
 
 const Sports = () => {
@@ -39,7 +40,7 @@ const Sports = () => {
             </div>
 
             <div className='pillar-hero__buttons'>
-                <a href='https://linktr.ee/uffsasports' target="_blank" rel="noopener noreferrer">
+                <a href='https://linktr.ee/wolfpacksportss?fbclid=PAZXh0bgNhZW0CMTEAAae1D8O3pDq3p2NHNW66GGJrsfNTnO7AQ1qDwsBHRvWwa546ofAcE6exm3V4zg_aem_28ddUDQKqWHcUMEzAMsymw' target="_blank" rel="noopener noreferrer">
                     <button>
                         <SiLinktree /> Linktree
                     </button>
@@ -60,7 +61,13 @@ const Sports = () => {
         {/* <PillarDescription 
             backgroundColor={'var(--white)'}
             content="Year after year UFFSA brings together its finest athletes to participate in UF intramural sports. During the Fall semester, 7 on 7 flag football is king. The largest crowds gather around SW fields for the games and the FSA crowds are among the largest of them all. Everyone is welcome to play and learn the sport with FSA’s best. There are men’s, women’s, and coed teams. Anyone interested in starting an FSA team in another intramural sport should contact the FSA Sports coordinator for direction."
-        /> */}
+        /> 
+        <h1 classname='title'>Sports Gallery</h1>*/}
+        <section className='sports-gallery'>
+            <div className='sports-gallery__item'>
+                <img src={Flag_football} alt="Flag Football" />
+            </div>
+        </section>
 
         <section className='sports-description'>
             <div className='sports-calendar__container' id='events'>

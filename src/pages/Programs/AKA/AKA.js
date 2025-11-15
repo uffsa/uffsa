@@ -37,7 +37,7 @@ const AKA = () => {
 
               <div className='aka-button__container'>
 
-                <a href='https://docs.google.com/spreadsheets/d/1FmL6qIt6ziWTvkx4nsdmgOy1C7dCz9DOtPYvMeWumv4/edit?usp=sharing' target="_blank" rel="noopener noreferrer">
+                <a href='https://docs.google.com/spreadsheets/d/1RwJQLhwU2FMW9KckC8LG8LCx2RZTU310eLROJ8Ox5os/edit?gid=1023977696#gid=1023977696' target="_blank" rel="noopener noreferrer">
                     <button className="aka-button title">
                       AKA Pairings
                     </button>

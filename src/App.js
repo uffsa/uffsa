@@ -19,7 +19,7 @@ import Leadership from './pages/Leadership/Leadership';
 import Media from './pages/Media/Media'
 
 import Shop from './pages/Shop/Shop';
-
+import OrderPage from './pages/Shop/sections/order-pages/OrderPage';
 
 function RedirectHandler() {
   const navigate = useNavigate();
@@ -60,6 +60,7 @@ function App() {
         <Route path="/media" element={<Media />} />
 
         <Route path="/shop" element={<Shop />} />
+        <Route path="/order" element={<OrderPage />} />
 
 
         <Route path="*" element={<Navigate to="/" />} />
