@@ -51,11 +51,12 @@
     margin: 0 auto;
     box-sizing: border-box;
     gap: 2rem;
+    text-align: center;
 }
 
 .aka-button {
     position: relative;
-    width: 14rem;
+    width: 20rem;
     padding: 1rem 2rem;
     color: var(--black);
     background-color: transparent;
@@ -73,4 +74,11 @@
     background-color: var(--black);
     transform: scale(1.05);
     box-shadow: 0px 0px 5px var(--black);
+}
+
+.aka-caption{
+  font-size: 0.9rem;
+  opacity: 1;
+  margin-top: 6px;
+  text-align: center;
 }

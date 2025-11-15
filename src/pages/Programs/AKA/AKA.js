@@ -1,5 +1,6 @@
-import React from 'react';
 import AKATitle from '../../../components/titles/AKA Title/AKATitle';
+
+import InstagramPost from "../../../components/InstaPosts/InstagramPost";
 
 import './AKA.css';
 
@@ -7,7 +8,6 @@ const AKA = () => {
     return (<>
         <div className='aka-page'>
           <AKATitle color="white" />
-
           <div className='aka-description'>
             <div className='aka-description__container'>
                 AKA (Ate/Kuya/Ading) is the Filipino Student Association's mentorship program here at UF. Our Membership Team will do their best to pair you with an "Ading" (little) or a "Kuya" (big brother) or an "Ate" (big sister) that best suits you!
@@ -19,10 +19,40 @@ const AKA = () => {
                 <br /><br />
                 Once you submit your application, find out your pairing(s) at AKA Reveal after FAHM Opening Ceremony on September 24th at Lake Wauburg. We hope to see you there!
                 <br /><br />
+              <div className='aka-reel'>
+                  <figure className="aka-figure">
+                    <figcaption className="aka-caption">
+                      FAHM Opening & AKA Reveal 2025 Recap
+                    </figcaption>
+                    <InstagramPost url="https://www.instagram.com/reel/DP2tYS5DVWk/"/>
+                  </figure>
+
 
               </div>
+            </div>
 
-              <div className='aka-vid'>
+            <div className='aka-button__container'>
+              <a href='https://docs.google.com/spreadsheets/d/1RwJQLhwU2FMW9KckC8LG8LCx2RZTU310eLROJ8Ox5os/edit?gid=1023977696#gid=1023977696' target="_blank" rel="noopener noreferrer">
+                  <button className="aka-button title">
+                    AKA 2025 Pairings
+                  </button>
+              </a>
+              <a href='https://drive.google.com/drive/folders/1HjQ1HGD7heaTK7d0YMgJ6u0qiPsv_Poj' target="_blank" rel="noopener noreferrer">
+                  <button className="aka-button title">
+                    AKA 2025 Photos
+                  </button>
+              </a>
+              <a href='https://www.youtube.com/playlist?list=PL6FIaXKPSPM4UpG_a1zmGdF7NQWcKSrSJ' target="_blank" rel="noopener noreferrer">
+                  <button className="aka-button title">
+                    AKA Promo Videos
+                  </button>
+              </a>
+            </div>
+
+
+
+              {/* OLD STUFF */}
+              {/* <div className='aka-vid'>
                 <div className='vid-container'>
                   <iframe className='vid'
                     width={1280}
@@ -33,22 +63,7 @@ const AKA = () => {
                     allowFullScreen={true}
                   />
                 </div>
-              </div>
-
-              <div className='aka-button__container'>
-
-                <a href='https://docs.google.com/spreadsheets/d/1RwJQLhwU2FMW9KckC8LG8LCx2RZTU310eLROJ8Ox5os/edit?gid=1023977696#gid=1023977696' target="_blank" rel="noopener noreferrer">
-                    <button className="aka-button title">
-                      AKA Pairings
-                    </button>
-                </a>
-
-                <a href='https://drive.google.com/drive/folders/1KJb04ZV5mhX48P1wkiic38-620ffASxu?usp=drive_link' target="_blank" rel="noopener noreferrer">
-                    <button className="aka-button title">
-                      AKA Photos
-                    </button>
-                </a>
-              </div>
+              </div> */}
 
               {/* <div className='temp-text-container'>
                 AKA Description: Our big/little mentorship program <br /><br />
