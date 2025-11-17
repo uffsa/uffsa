@@ -1,25 +1,30 @@
 import React from 'react';
 import './C-Board.css';
 
-import Lynette from '../photos/lynette.jpg';
 import Abby from '../photos/abby.jpg';
-import Ava from '../photos/ava.jpeg';
-import Azille from '../photos/azille.jpeg';
-import Gahyun from '../photos/gahyun.jpeg';
-import Jaden from '../photos/jaden.png';
-import Jane from '../photos/jane.jpeg';
-import Jasmine from '../photos/jasmine.jpeg';
-import Jerry from '../photos/jerry.png';
-import Kate from '../photos/kate.jpeg';
-import Laura from '../photos/laura.jpeg';
-import Luke from '../photos/luke.jpg';
-import Mari from '../photos/mari.png';
-import Justin from '../photos/justin.jpeg';
+import Alex from '../photos/alex.jpg';
+import Ava from '../photos/ava.jpg';
+import Azille from '../photos/azille.jpg';
+import Drew from '../photos/drew.jpg';
+import Elijah from '../photos/elijah.jpg';
+import Gahyun from '../photos/gahyun.jpg';
 import Iya from '../photos/iya.JPG';
-import Mason from '../photos/mason.png';
-import Alex from '../photos/alex.png';
-import Elijah from '../photos/elijah.png';
-import Liam from '../photos/liam.png';
+import Jaden from '../photos/jaden.jpg';
+import Jane from '../photos/elle.jpg';
+import Jasmine from '../photos/jasmine.jpg';
+import Jerry from '../photos/jerry.jpg';
+import Justin from '../photos/justin.jpg';
+import Kate from '../photos/kate.jpg';
+import Laura from '../photos/laura.jpg';
+import Liam from '../photos/liam.jpg';
+import Luke from '../photos/luke.jpg';
+import Lynette from '../photos/lynette.jpg';
+import Mari from '../photos/mari.jpg';
+import Mason from '../photos/mason.jpg';
+import Noah from '../photos/noah.jpg';
+import PJ from '../photos/pj.jpg';
+import Rebekah from '../photos/rebekah.jpg';
+import Yazmina from '../photos/yazmina.jpg';
 import Default from './default.png';
 
 const CBoard = () => {
@@ -48,6 +53,13 @@ const CBoard = () => {
             <h2>Philanthropy Chair</h2>
           </div>
         </a>
+        <a href='https://www.instagram.com/no____ahh/' target="_blank" rel="noopener noreferrer" className='cboard-card philanthropy-card'>
+          <img src={Noah} alt='Noah Magpusao' />
+          <div className='cboard-card__text'>
+            <h1>Noah Magpusao</h1>
+            <h2>Philanthropy Chair</h2>
+          </div>
+        </a>
         <a href='https://www.instagram.com/luke.valian/' target="_blank" rel="noopener noreferrer" className='cboard-card dance-card'>
           <img src={Luke} alt='Luke Valian Malobay' />
           <div className='cboard-card__text'>
@@ -62,6 +74,13 @@ const CBoard = () => {
             <h2>Dance Chair</h2>
           </div>
         </a>
+        <a href='https://www.instagram.com/yazminaa/' target="_blank" rel="noopener noreferrer" className='cboard-card dance-card'>
+          <img src={Yazmina} alt='Yazmina Fadloullah' />
+          <div className='cboard-card__text'>
+            <h1>Yazmina Fadloullah</h1>
+            <h2>Dance Chair</h2>
+          </div>
+        </a>
         <a href='https://www.instagram.com/kusa.zz/' target="_blank" rel="noopener noreferrer" className='cboard-card senioradvisor-card'>
           <img src={Justin} alt='Justin Fernandez' />
           <div className='cboard-card__text'>
@@ -73,6 +92,20 @@ const CBoard = () => {
           <img src={Iya} alt='Iya Garcera' />
           <div className='cboard-card__text'>
             <h1>Iya Garcera</h1>
+            <h2>Culture Chair</h2>
+          </div>
+        </a>
+        <a href='https://www.instagram.com/rebekahelize/' target="_blank" rel="noopener noreferrer" className='cboard-card culture-card'>
+          <img src={Rebekah} alt='Rebekah Barrera' />
+          <div className='cboard-card__text'>
+            <h1>Rebekah Barrera</h1>
+            <h2>Culture Chair</h2>
+          </div>
+        </a>
+        <a href='https://www.instagram.com/andrew.lcss/' target="_blank" rel="noopener noreferrer" className='cboard-card culture-card'>
+          <img src={Drew} alt='Andrew Lucas' />
+          <div className='cboard-card__text'>
+            <h1>Andrew Lucas</h1>
             <h2>Culture Chair</h2>
           </div>
         </a>
@@ -136,6 +169,13 @@ const CBoard = () => {
           <img src={Jerry} alt='Jerry Phan' />
           <div className='cboard-card__text'>
             <h1>Jerry Phan</h1>
+            <h2>Multimedia Chair</h2>
+          </div>
+        </a>
+        <a href='https://www.instagram.com/pjgray01/' target="_blank" rel="noopener noreferrer" className='cboard-card multimedia-card'>
+          <img src={PJ} alt='PJ Gray' />
+          <div className='cboard-card__text'>
+            <h1>PJ Gray</h1>
             <h2>Multimedia Chair</h2>
           </div>
         </a>

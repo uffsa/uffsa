@@ -104,7 +104,47 @@
     .sports-tabs {
         padding: 0;
     }
+
     .sports-tabs .MuiTab-root {
         font-size: 0.85rem;
+    }
+}
+
+.sports-gallery {
+    width: 100%;
+    max-width: 900px;
+    /* container max width */
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.sports-gallery h1 {
+    margin: 1rem auto;
+    width: fit-content;
+    color: var(--black);
+    text-decoration: none;
+    font-style: italic;
+    font-weight: 600;
+    transition: all 0.1s;
+}
+
+/* Target your item divs */
+.sports-gallery__item img {
+    width: 100%;
+    /* image fills container */
+    max-width: 800px;
+    /* cap width to make it smaller */
+    height: auto;
+    /* preserve aspect ratio */
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+}
+
+/* Optional: smaller images on mobile */
+@media screen and (max-width: 768px) {
+    .sports-gallery__item img {
+        max-width: 90%;
     }
 }

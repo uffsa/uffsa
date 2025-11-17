@@ -68,7 +68,7 @@ const Philanthropy = () => {
         {/* GK TAB */}
         <TabPanel value={signatureEventsValue} index={0}>
           <h2>Gawad Kalinga Month</h2>
-          <img src = {gk} style={{width: '100%'}}></img>
+
           <p>
             Gawad Kalinga (GK) Month is a philanthropic initiative held each March,
             where FSA hosts a series of events to raise funds in support of empowering
@@ -91,7 +91,6 @@ const Philanthropy = () => {
             <Typography variant="subtitle1" className="klikme-subtitle">
               Klik Mobile Education • Digital literacy • Community empowerment
             </Typography>
-            <img src = {klik} style={{width: '100%'}}></img>
           </Box>
 
           <Stack spacing={3} sx={{ mt: 3 }}>
