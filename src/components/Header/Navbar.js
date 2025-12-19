@@ -84,6 +84,11 @@ function Navbar(props) {
                   FSA+
                 </HashLink>
               </li>
+              <li className="navbar-subitem">
+                <HashLink to="/web-interns#" className="navbar-link" onClick={handleMenuToggle}>
+                  WEB INTERNS
+                </HashLink>
+              </li>
             </ul>
           </li>
         </ul>

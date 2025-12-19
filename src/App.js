@@ -13,6 +13,7 @@ import Philanthropy from './pages/Pillars/Philanthropy/Philanthropy';
 import AKA from './pages/Programs/AKA/AKA';
 import MAFFIA from './pages/Programs/MAFFIA/MAFFIA';
 import FsaPlus from './pages/Programs/FSA+/FSA+';
+import WebInterns from './pages/Programs/WEB INTERNS/WebInterns';
 
 import Leadership from './pages/Leadership/Leadership';
 
@@ -54,6 +55,7 @@ function App() {
         <Route path="/aka" element={<AKA />} />
         <Route path="/maffia" element={<MAFFIA />} />
         <Route path="/fsa+" element={<FsaPlus />} />
+        <Route path="/web-interns" element={<WebInterns />} />
 
         <Route path="/leadership" element={<Leadership />} />
 
