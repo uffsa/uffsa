@@ -1,13 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9df9f41.css",
-    "main.js": "/static/js/main.49230fea.js",
+    "main.css": "/static/css/main.7433afa5.css",
+    "main.js": "/static/js/main.8863c0b8.js",
     "static/media/GO_Fest Dodgeball FSA.png": "/static/media/GO_Fest Dodgeball FSA.2ab0f044c21f25c8aea6.png",
+    "static/media/Kyle.JPG": "/static/media/Kyle.01a84872aca8f8b779bb.JPG",
+    "static/media/Xenia.JPG": "/static/media/Xenia.2b34c280d6bda66b2d94.JPG",
+    "static/media/Brian.JPG": "/static/media/Brian.e37bc978bcf16c18d0da.JPG",
+    "static/media/RJ.JPG": "/static/media/RJ.fe469190d4644355537f.JPG",
+    "static/media/Pari.JPG": "/static/media/Pari.18b19a4307eb40d3207d.JPG",
+    "static/media/Joyce.JPG": "/static/media/Joyce.45d4ffbb4acecb97cde3.JPG",
+    "static/media/Patrick.jpg": "/static/media/Patrick.a0bcbc0b77d4ed01d492.jpg",
+    "static/media/Ronald.JPG": "/static/media/Ronald.9566581a165dc64c2bc6.JPG",
+    "static/media/Matt.JPG": "/static/media/Matt.9a225602f732dce457b7.JPG",
+    "static/media/Andrew.JPG": "/static/media/Andrew.b3ce1ead1e694ce20754.JPG",
+    "static/media/Vyan.JPG": "/static/media/Vyan.3f3351bd5866aeee779b.JPG",
+    "static/media/Nate.JPG": "/static/media/Nate.10beee83326624534d3b.JPG",
+    "static/media/Alex.JPG": "/static/media/Alex.7911e55c992ac8c90912.JPG",
+    "static/media/UF vs USF 9_6_25.jpg": "/static/media/UF vs USF 9_6_25.0a8eaccd71daec208258.jpg",
     "static/media/background2.JPG": "/static/media/background2.7a6862dd01c23e51615f.JPG",
+    "static/media/philfest_2024.JPG": "/static/media/philfest_2024.0d2df53a988cc6af83b3.JPG",
+    "static/media/sakuting.JPG": "/static/media/sakuting.a027ad635f1e0a70105c.JPG",
     "static/media/GBM 1 Menchies After-Social.jpg": "/static/media/GBM 1 Menchies After-Social.3ce2f634720425ba64bc.jpg",
+    "static/media/Barrio.JPG": "/static/media/Barrio.3fc7ff791cc6f68c5c22.JPG",
+    "static/media/Pickleball.jpg": "/static/media/Pickleball.8fca4739d93345b4875c.jpg",
     "static/media/mango.png": "/static/media/mango.c5a1b2413f18a2ef2533.png",
     "static/media/image3.png": "/static/media/image3.37db7265c13bd0588e09.png",
+    "static/media/Lynette.JPG": "/static/media/Lynette.9ca2fc6543003df185ec.JPG",
     "static/media/CO-Rec Flag football.jpg": "/static/media/CO-Rec Flag football.2223100dca9d2c661146.jpg",
+    "static/media/Jaden.JPG": "/static/media/Jaden.c71f1a2dce949f1b8163.JPG",
     "static/media/elle.jpg": "/static/media/elle.2bc4beeac9f05eeb8522.jpg",
     "static/media/StudySocial.png": "/static/media/StudySocial.efa7df960f8928511e50.png",
     "static/media/kate.jpg": "/static/media/kate.4796f6a88992ba2bbb07.jpg",
@@ -16,7 +36,9 @@
     "static/media/justin.jpg": "/static/media/justin.47511a883923258162c7.jpg",
     "static/media/gianna.jpg": "/static/media/gianna.f5a62c4c9f1baf259ba9.jpg",
     "static/media/sam.jpg": "/static/media/sam.d7b841c933963415354b.jpg",
+    "static/media/Volleyball.jpg": "/static/media/Volleyball.60708ba44b980f3d9dd9.jpg",
     "static/media/noah.jpg": "/static/media/noah.2624bec8c46bd2cda298.jpg",
+    "static/media/FundraisingEvent.png": "/static/media/FundraisingEvent.e0ff27a579a31e83567a.png",
     "static/media/image2.png": "/static/media/image2.4a3626ccec55bddbedfd.png",
     "static/media/grain.png": "/static/media/grain.a297bc3e3f17176232c9.png",
     "static/media/image1.png": "/static/media/image1.0fc53cfe7b1e28e623d1.png",
@@ -72,11 +94,11 @@
     "static/media/star.png": "/static/media/star.e019e048777872070a12.png",
     "static/media/logo.png": "/static/media/logo.2d474d98786a767124ce.png",
     "index.html": "/index.html",
-    "main.c9df9f41.css.map": "/static/css/main.c9df9f41.css.map",
-    "main.49230fea.js.map": "/static/js/main.49230fea.js.map"
+    "main.7433afa5.css.map": "/static/css/main.7433afa5.css.map",
+    "main.8863c0b8.js.map": "/static/js/main.8863c0b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9df9f41.css",
-    "static/js/main.49230fea.js"
+    "static/css/main.7433afa5.css",
+    "static/js/main.8863c0b8.js"
   ]
 }
