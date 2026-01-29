@@ -21,11 +21,6 @@ const FsaPlus = () => {
 
             <div className='fsaplus-hero__buttons'>
               <div className='fsaplus-hero__fb-buttons'>
-                <a href='https://www.facebook.com/groups/fsaacademics/' target="_blank" rel="noopener noreferrer">
-                  <button>
-                    <FaFacebook /> FSA+
-                  </button>
-                </a>
                 <a href='https://www.facebook.com/groups/UFFSA.Alumni/' target="_blank" rel="noopener noreferrer">
                   <button>
                     <FaFacebook /> UFFSA Alumni
@@ -46,26 +41,23 @@ const FsaPlus = () => {
           </section>
 
 
-          <section className='fsaplus-study-social'>
-            <h1 className='fsaplus-main-resources-title title'>Study Socials</h1>
+          <section className='tip-line'>
+            <h1 className='tip-line title'>Anonymous Tip Line</h1>
 
-            <div className='fsaplus-social-container'>
+            <div className='tip-line-container'>
+              <div className='tip-line-description'>
+                <p>
+                  Have any suggestions for us? Don’t worry, the pamilya has your back!
+                </p>
+                <p>
+                  Fill out the anonymous tip line to let us know!
+                </p>
+
+              </div>
+
               <a href='https://www.instagram.com/p/Cw23RGxO4xO/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==' target="_blank" rel="noopener noreferrer" className='study-social'>
                 <img src={StudySocial} alt='Study Social' />
               </a>
-
-              <div className='study-social-description'>
-                <p>
-                  Need a study buddy and a good study session? Don’t worry, the pamilya has your back!
-                </p>
-                <p>
-                  Join us for a study social and get to know new people while studying for your next exam! 
-                </p>
-                <p className='next-social'>
-                  Next Social: October 9th @ Reitz 3310
-                </p>
-              </div>
-              
 
               
             </div>

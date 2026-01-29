@@ -51,6 +51,7 @@
     ]
   },
   "devDependencies": {
+    "baseline-browser-mapping": "^2.9.19",
     "gh-pages": "^5.0.0",
     "react-scripts": "^5.0.1",
     "s": "^1.0.0"

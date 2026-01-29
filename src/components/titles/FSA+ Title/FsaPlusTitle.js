@@ -8,8 +8,8 @@ const FsaPlusTitle = () => {
         <div className='fsaPlus-title'>
           <div className='fsaPlus-left-box' />
           <div className='fsaPlus-right-box' />
-          <h1>FSA</h1>
-          <h2>+</h2>
+          <h1>Coming soon: </h1>
+          <h2>FSA Yearbook!</h2>
         </div>
       </div>
   );
