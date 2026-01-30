@@ -27,8 +27,8 @@ const AKA = () => {
             <iframe className='vid'
               width={1280}
               height={720}
-              src="https://www.youtube.com/embed/RtLWP24r8mA?si=RI62JiN7anEfJDjG"
-              title="AKA 2023: Across the PINOY-VERSE"
+              src="https://www.youtube.com/watch?v=lV77FToQwUg"
+              title="Kirby's Raka-venture | RAKA Promo Video 2026"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen={true}
             />
