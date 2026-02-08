@@ -118,7 +118,7 @@ const WebInterns = () => {
                     <a href='https://www.instagram.com/v.pa_ri/'target='_blank' rel="noopener noreferrer" className='web-interns-card'>
                         <img src={Pari} alt='Pari' />
                         <div className='web-interns-card__text'>
-                            <h1>Pari</h1>
+                            <h1>Pari Vyas</h1>
                             <h2>Web Intern</h2>
                         </div>
                     </a>

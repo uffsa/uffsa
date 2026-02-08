@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaFacebook, FaLinkedin } from 'react-icons/fa';
-import FsaPlusTitle from '../../../components/titles/FSA+ Title/FsaPlusTitle';
+import FsaPlusTitle from '../../../components/titles/FSA+ Title/FsaPlusTitle.js';
 
 import StudySocial from './StudySocial.png';
 import ClassConnector from './class connector qr code.png'
