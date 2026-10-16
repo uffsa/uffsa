@@ -18,6 +18,7 @@ import Vyan    from './photos/2025-Vyan.JPG';
 import Xenia   from './photos/2025-Xenia.JPG';
 // ---------------------------------------------------------------------------
 import Matt from './photos/2026-Matt.jpg';
+import Joyce2 from './photos/2026-Joyce.jpg';
 
 // ---------------------------------------------------------------------------
 export const DEFAULT_PHOTO = Default;
@@ -35,6 +36,7 @@ export const TEAM_LEADS_2026_2027 = [
 
 export const INTERNS_2026_2027 = [
   // { name: 'Full Name', role: 'Web Intern', photo: SomePhoto, instagram: 'https://www.instagram.com/handle/' },
+  { name: 'Joyce Maniquis', role: 'Web Intern', photo: Joyce2, instagram: 'https://www.instagram.com/joyce_m_92/' },
 ];
 
 export const WEBMASTER_2025_2026 = [
