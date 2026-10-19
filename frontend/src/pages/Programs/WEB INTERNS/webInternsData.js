@@ -16,6 +16,7 @@ import Patrick from './photos/2025-Patrick.jpg';
 import Ronald  from './photos/2025-Ronald.JPG';
 import Vyan    from './photos/2025-Vyan.JPG';
 import Xenia   from './photos/2025-Xenia.JPG';
+import Bean from './photos/2026-Ethan.jpg'
 // ---------------------------------------------------------------------------
 import Matt from './photos/2026-Matt.jpg';
 
@@ -35,6 +36,8 @@ export const TEAM_LEADS_2026_2027 = [
 
 export const INTERNS_2026_2027 = [
   // { name: 'Full Name', role: 'Web Intern', photo: SomePhoto, instagram: 'https://www.instagram.com/handle/' },
+  { name: 'Ethan Nguyen', role: 'Web Intern', photo: Bean, instagram: 'https://www.instagram.com/beanweeen/' },
+
 ];
 
 export const WEBMASTER_2025_2026 = [
